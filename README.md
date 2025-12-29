@@ -31,31 +31,19 @@ Este repositorio contiene **1,000 problemas de programación en Rust** diseñado
 ├──  problemas-201-300/
 ├──  ...
 ├──  problemas-901-1000/
-├──  solucionador/
-│   └── main.rs (Para ejecutar con cargo run)
 ├── problemario/
 │   ├── problemas 1-100.pdf
 │   ├── problemas 101-200.pdf
 │   └── ...
-└── 📄 README.md
+├── README.md
+├── LICENSE
 ```
 
 ## Características
 
 - **1,000 problemas prácticos** organizados en 100 grupos de 10 problemas
-- Cada grupo corresponde a una sección del Rust Book oficial
 - **Carpetas organizadas** por rangos de 100 problemas para fácil navegación
-- **PDF ilustrado** con todos los problemas detallados y explicados
-- **Carpeta `solucionador/`** lista para ejecutar y probar soluciones con `cargo run`
-
-### Ejecutar el Solucionador
-
-La carpeta `solucionador/` está configurada como un proyecto Rust independiente para probar y ejecutar código:
-
-```bash
-cd solucionador
-cargo run
-```
+- **PDF ilustrado** 10 pdf con grupo de 100 problemas cada uno.
 
 ### Estructura de Carpetas
 
@@ -64,14 +52,6 @@ Los problemas están organizados en grupos de 100 para facilitar la navegación:
 - `problemas-001-100/`: Problemas del 1 al 100
 - `problemas-101-200/`: Problemas del 101 al 200
 - Y así sucesivamente hasta `problemas-901-1000/`
-
-### Consultar Problemas
-
-Todos los problemas están documentados con ilustraciones en el archivo `problemas.pdf`, que incluye:
-
-- Enunciados detallados
-- Ejemplos de entrada y salida
-- Pistas y conceptos relacionados del Rust Book
 
 ## Cobertura de Temas
 
