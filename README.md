@@ -19,6 +19,23 @@
 
 Este repositorio contiene **1,000 problemas de programación en Rust** diseñados para dominar el lenguaje a través de la práctica intensiva. Cada sección está basada en los capítulos del [Rust Book oficial](https://doc.rust-lang.org/book/), con 10 problemas escritos por cada sección que cubren los conceptos fundamentales y avanzados del lenguaje.
 
+## Material de Práctica (PDFs)
+
+Cada volumen contiene 100 problemas detallados con sus respectivas explicaciones y retos. Actualmente, el **Volumen 1** ya está disponible para su descarga.
+
+| Volumen        | Contenido (Capítulos del Rust Book)                | Estado          | Enlace de Descarga                                       |
+| -------------- | -------------------------------------------------- | --------------- | -------------------------------------------------------- |
+| **Volumen 1**  | Cap. 1 al 10: Conceptos básicos, Ownership.        | ✅ Disponible   | **[Descargar PDF](./problemario/problemas%201-100.pdf)** |
+| **Volumen 2**  | Cap. 11 al 15: Tests, I/O, Closures e Iteradores.  | ⏳ Próximamente | _En desarrollo_                                          |
+| **Volumen 3**  | Cap. 16 al 20: Concurrencia, Smart Pointers y OOP. | ⏳ Próximamente | _En desarrollo_                                          |
+| **Volumen 4**  | Patrones de diseño y Algoritmos de ordenación.     | ⏳ Próximamente | _En desarrollo_                                          |
+| **Volumen 5**  | Estructuras de datos avanzadas (Grafos y Árboles). | ⏳ Próximamente | _En desarrollo_                                          |
+| **Volumen 6**  | Redes y Programación Asíncrona (`async/await`).    | ⏳ Próximamente | _En desarrollo_                                          |
+| **Volumen 7**  | Macros y Metaprogramación.                         | ⏳ Próximamente | _En desarrollo_                                          |
+| **Volumen 8**  | Desarrollo Web con Rust (Axum/Actix).              | ⏳ Próximamente | _En desarrollo_                                          |
+| **Volumen 9**  | Unsafe Rust y FFI (Interoperabilidad con C).       | ⏳ Próximamente | _En desarrollo_                                          |
+| **Volumen 10** | Proyecto Final: Arquitectura de Sistemas en Rust.  | ⏳ Próximamente | _En desarrollo_                                          |
+
 ## Estructura del Proyecto
 
 ```
